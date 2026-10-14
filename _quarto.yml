@@ -23,13 +23,13 @@ website:
       - text: Four modules
         menu:
           - href: questions.qmd
-            text: "01 · Questions & authority"
+            text: "01 Questions & authority"
           - href: history.qmd
-            text: "02 · Fire history & its limits"
+            text: "02 Fire history & its limits"
           - href: learning.qmd
-            text: "03 · Stewardship & exchange"
+            text: "03 Stewardship & exchange"
           - href: monitoring.qmd
-            text: "04 · Monitoring outcomes"
+            text: "04 Monitoring outcomes"
       - href: teaching.qmd
         text: Teaching
       - href: resources.qmd
@@ -37,7 +37,7 @@ website:
       - href: about.qmd
         text: About
   page-footer:
-    left: "Public-source discussion prototype · Proposed participation is not an agreement."
+    left: "Public-source discussion prototype."
     right: "Prepared by Lilly Jones, PhD"
 format:
   html:

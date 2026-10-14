@@ -1,5 +1,5 @@
 ---
-title: "04 · Monitoring outcomes"
+title: "04 Monitoring outcomes"
 subtitle: "Design observations around an outcome partners choose"
 ---
 

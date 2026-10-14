@@ -1,6 +1,6 @@
 # Tribal-led Fire Stewardship
 
-**An ESIIL synthesis and learning series — public-source discussion prototype, v0.1.0.** Prepared by Lilly Jones, PhD. This is a standalone adaptation of the Tribal Fire Science sandbox, not an official ESIIL product or a confirmed partnership with the named Nations or organizations.
+**An ESIIL synthesis and learning series is a public-source discussion prototype, v0.1.0.** Prepared by Lilly Jones, PhD. This is a standalone adaptation of the [Tribal Fire Science sandbox](https://github.com/daearconsulting/tribal_fire_science) from Daear Consulting, and is not yet approved by ESIIL.
 
 ## Start here
 
@@ -24,7 +24,7 @@ python scripts/check_public.py
 quarto preview
 ```
 
-Alternatively install the Python packages in a suitable environment with `python -m pip install -r requirements.txt -c constraints.txt`. The constraints record tested direct package versions; they do not lock all transitive packages. No API key is required. Static charts are self-contained; interactive basemaps need internet and provide a data-only option. Print / Save PDF provides a browser print version with static maps.
+Alternatively install the Python packages in a suitable environment with `python -m pip install -r requirements.txt -c constraints.txt`. The constraints record tested direct package versions; they do not lock all transitive packages. No API key is required. Static charts are self-contained; interactive basemaps need internet and provide a data-only option. Print/Save PDF provides a browser print version with static maps.
 
 ## Run the notebooks
 

@@ -1,6 +1,6 @@
 # Draft learning exchange agenda
 
-This is a planning worksheet. No invitation, host agreement, event or travel has been arranged.
+This is a planning worksheet.                                       
 
 ## Before an invitation
 

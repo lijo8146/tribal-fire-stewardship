@@ -3,7 +3,7 @@ title: "About this prototype"
 subtitle: "Purpose, scope and a practical first phase"
 ---
 
-Prepared by **Lilly Jones, PhD**, as a discussion prototype following interest in adapting the Tribal Fire Science sandbox for ESIIL. This release is not an official ESIIL product or an agreement with any named Nation or organization. No logos or endorsements have been assumed.
+Prepared by **Lilly Jones, PhD**, as a discussion prototype following interest in adapting the Tribal Fire Science sandbox for ESIIL. This release is not an official ESIIL product or an agreement with any named Nation or organization.                                        
 
 ## What is ready
 
