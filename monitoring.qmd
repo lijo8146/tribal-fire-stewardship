@@ -1,0 +1,49 @@
+---
+title: "04 · Monitoring outcomes"
+subtitle: "Design observations around an outcome partners choose"
+---
+
+::: {.lead}
+Monitoring becomes useful when the desired outcome, the observations and the decision are connected. This module supplies a protocol and working analysis code. No partner treatment observations have been supplied, so this prototype reports no treatment outcome estimates.
+:::
+
+## Start with an outcome
+
+| Outcome to consider with partners | A possible observation | What it would not establish alone |
+|---|---|---|
+| A locally selected vegetation objective | Repeated field observations using an agreed indicator | Species identity, cultural value or use quality from a generic greenness index |
+| Community protection | Changes in fuels and a documented exposure question | The number of disasters “prevented” by one treatment |
+| Continuity of stewardship | Partner-defined records of work, access or training | Cultural continuity from acres burned |
+| Smoke or watershed concerns | Appropriately located observations with meteorological or hydrologic context | Causation from a regional satellite signal alone |
+
+These are prompts, not a prescribed set of indicators. Sensitive knowledge need not be turned into a dataset to have a place in the research.
+
+## Specify the design before analysis
+
+The protocol records the question, selected indicator and units, sampling units, treatment date, before/after windows, comparison selection, seasonality, quality rules and intended interpretation. Preserve a dated design before viewing outcome contrasts.
+
+For the included paired workflow, each pair contains one treated unit and one distinct comparison unit, each observed before and after. Enter one predeclared aggregate per unit-period. Pixels or repeat visits within one unit are not independent treatment replicates.
+
+[Download the monitoring protocol](templates/monitoring-protocol.yml){.download-link}
+[Download the blank observation table](templates/monitoring-observations.csv){.download-link}
+[Open notebook 04](notebooks/04_monitoring_outcomes.ipynb){.download-link}
+
+## What the code calculates
+
+For each pair:
+
+$$
+\text{paired contrast} = (T_{after}-T_{before}) - (C_{after}-C_{before})
+$$
+
+The code checks that the four observations exist, units and methods match, dates are ordered, quality flags are accepted, and a unit is not reused across independent pairs. It returns pair-level changes and a descriptive summary. A pair-bootstrap interval is produced only with at least ten independent pairs and remains conditional on the design assumptions.
+
+## What the contrast means
+
+A before/after comparison can be affected by drought, seasonality, treatment selection, different starting conditions and other disturbances. A single before period cannot establish parallel trends. The calculated contrast is descriptive unless the research design supports stronger identification. Remote-sensing greenness is not a direct measure of biodiversity, fuel safety or cultural benefit.
+
+Partner records stay outside the website build. The research notebook can read a locally supplied CSV and writes no public results automatically. Sharing any resulting table, figure or notebook requires a separate release decision.
+
+::: {.worksheet}
+**Exercise:** write a protocol for a hypothetical vegetation indicator. In explicitly hypothetical arithmetic, a treated unit changes from 10 to 14 and a comparison unit from 8 to 9. Calculate the contrast, then explain two reasons it cannot by itself establish a treatment effect. These numbers are teaching values, not observations from any case.
+:::

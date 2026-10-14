@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: _site
+  execute-dir: project
+  render:
+    - "*.qmd"
+    - "cases/*.qmd"
+  resources:
+    - "notebooks/*.ipynb"
+    - "templates/*"
+  post-render:
+    - python scripts/post_render.py
+website:
+  title: "Tribal-led Fire Stewardship"
+  description: "A public-source synthesis and learning prototype for discussion with ESIIL and Tribal partners."
+  page-navigation: true
+  navbar:
+    background: "#203d3a"
+    foreground: "#faf8f2"
+    left:
+      - href: index.qmd
+        text: Start here
+      - text: Four modules
+        menu:
+          - href: questions.qmd
+            text: "01 · Questions & authority"
+          - href: history.qmd
+            text: "02 · Fire history & its limits"
+          - href: learning.qmd
+            text: "03 · Stewardship & exchange"
+          - href: monitoring.qmd
+            text: "04 · Monitoring outcomes"
+      - href: teaching.qmd
+        text: Teaching
+      - href: resources.qmd
+        text: Sources & downloads
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "Public-source discussion prototype · Proposed participation is not an agreement."
+    right: "Prepared by Lilly Jones, PhD"
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    toc-title: "On this page"
+    page-layout: article
+    include-before-body: print.html
+    link-external-newwindow: true
+    code-fold: true
+    code-summary: "Show analysis"
+execute:
+  echo: false
+  warning: false
+  message: false
+  freeze: false

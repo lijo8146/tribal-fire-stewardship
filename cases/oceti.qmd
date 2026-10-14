@@ -1,0 +1,40 @@
+---
+title: "Lakota and other Oceti Sakowin Nations"
+subtitle: "Public-source case context · Module 03"
+---
+
+::: {.lead}
+Partner-selected Nations; no single collective study boundary.
+:::
+
+## What is publicly documented
+
+::: {.case-evidence}
+ESIIL STARS includes Oglala Lakota College. Observing Unci Maka describes community-developed earth-observation methods.
+:::
+
+Sources: [ESIIL: ESIIL STARS](https://esiil.org/esiil-stars); [ESIIL: Observing Unci Maka](https://esiil.org/working-groups/observing-unci-maka). Reviewed October 14, 2026.
+
+## Relationship status
+
+Existing ESIIL educational relationships are documented; participation in this proposed series is not confirmed.
+
+## A proposed question to discuss
+
+Which relationships among grassland fire, grazing, drought and community priorities would participating Nations want to examine?
+
+This question was drafted for the prototype; it is not attributed to the Nation, organization or practitioners.
+
+## A possible learning contribution
+
+Begin with the existing relationships and each Nation’s own definitions of useful evidence.
+
+## What remains context-specific
+
+Study areas, culturally important outcomes and release decisions remain specific to each participating Nation.
+
+## Link to regional context
+
+The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle, not this Nation or organization. Regional adjacency does not establish a research relationship or shared authority.
+
+[Return to the six case contexts](../learning.qmd).

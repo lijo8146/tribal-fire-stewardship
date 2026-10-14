@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: Please cite this discussion prototype and the underlying data sources separately.
+title: "Tribal-led Fire Stewardship: An ESIIL Synthesis and Learning Series"
+version: 0.1.0
+date-released: 2026-10-14
+authors:
+  - family-names: Jones
+    given-names: Lilly
+license: AGPL-3.0-only

@@ -1,0 +1,23 @@
+title: Tribal-led Fire Stewardship
+subtitle: An ESIIL synthesis and learning series
+version: 0.1.0
+status: Public-source discussion prototype
+prepared_by: Lilly Jones, PhD
+reviewed_on: 2026-10-14
+regions:
+  northern-plains:
+    label: Northern Plains context
+    bbox: [-103.6, 42.5, -99.8, 45.5]
+    note: A broad South Dakota regional window; not a collective Oceti Sakowin territory or a reservation boundary.
+  southwest-colorado:
+    label: Southwest Colorado context
+    bbox: [-109.2, 36.8, -106.8, 38.1]
+    note: A regional window relevant to discussions involving Southern Ute and Ute Mountain Ute; counts are not attributed to either Nation.
+  central-arizona:
+    label: Central Arizona context
+    bbox: [-111.5, 32.5, -109.2, 34.5]
+    note: A broad regional window for a San Carlos Apache discussion; not the reservation boundary.
+  klamath-region:
+    label: Klamath region context
+    bbox: [-124.3, 40.8, -122.2, 42.2]
+    note: A broad regional window for separate Yurok and Karuk case discussions; not a map of either Nation's territory.

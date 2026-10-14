@@ -1,0 +1,51 @@
+---
+title: "03 · Stewardship & exchange"
+subtitle: "Six distinct contexts for a shared research conversation"
+---
+
+::: {.lead}
+The public cases below separate documented work, proposed questions and knowledge that remains specific to its holders. They are preparation for a conversation, not a roster of confirmed participants.
+:::
+
+## Read the cases separately
+
+::: {.case-grid}
+[**Lakota and other Oceti Sakowin Nations** Begin with partner-selected Nations and existing educational relationships.](cases/oceti.qmd){.module-card}
+
+[**San Carlos Apache** Explore connections to existing student work on drought and air quality.](cases/san-carlos.qmd){.module-card}
+
+[**Southern Ute** Consider how a synthesis could complement existing forestry and Brunot Area work.](cases/southern-ute.qmd){.module-card}
+
+[**Ute Mountain Ute** Establish the Tribe’s own questions, programs and preferred roles.](cases/ute-mountain.qmd){.module-card}
+
+[**Yurok / CFMC** Learn about community-defined purposes and the work of sustaining cultural fire.](cases/yurok.qmd){.module-card}
+
+[**Karuk** Examine practitioner support, enabling institutions and Tribal-authored policy analysis.](cases/karuk.qmd){.module-card}
+:::
+
+## What could an exchange explore?
+
+| Topic | A question for participants to shape |
+|---|---|
+| Defining success | Which outcomes matter, and who decides whether they were achieved? |
+| Sustaining the work | What makes staffing, training, funding and relationships durable? |
+| Authority and access | Which arrangements enable stewardship on the lands that matter? |
+| Evidence and monitoring | Which observations are useful to practitioners, and which miss their purposes? |
+| Teaching | What can be shared with students or other communities, by whom, and under what terms? |
+| Adaptation | Which lessons travel, which need substantial adaptation, and which remain place-specific? |
+
+Yurok and Karuk cases retain separate histories and authorities. Cultural burning is not defined here as a generic fuel treatment. Practitioners and their communities define its purposes, meanings and appropriate ways of describing it.
+
+## An invitation-ready planning process
+
+1. Ask whether a proposed exchange would be useful and whom the appropriate hosts or authorities would be.
+2. Agree on purpose, compensation, participant roles, recording restrictions and review of any outputs.
+3. Let hosts determine the format. A field visit or practitioner demonstration is included only if invited and appropriate.
+4. Produce an agreed learning record, including what should not be generalized or shared further.
+
+No travel dates, invitations or training events have been arranged. Event availability should be checked directly with hosts rather than assumed from past programs.
+
+[Download a draft exchange agenda](templates/exchange-agenda.md){.download-link}
+[Open notebook 03](notebooks/03_stewardship_and_exchange.ipynb){.download-link}
+
+**Exercise:** use two public cases to identify one shared enabling condition and one important difference. Record a source for each statement. Do not score or rank the communities.

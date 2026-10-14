@@ -1,0 +1,113 @@
+{
+  "mode": "real_public_data",
+  "source": "MTBS burned-area perimeter snapshot",
+  "source_url": "https://www.mtbs.gov/direct-download",
+  "snapshot_observed_utc": "2026-10-14T21:13:54.668520+00:00",
+  "original_download_date": "unknown",
+  "start_year": 1984,
+  "end_year": 2024,
+  "source_records": 30730,
+  "source_crs": "EPSG:4269",
+  "source_files": {
+    "mtbs_perims_DD.shp": "9c7303214552e73f0e9ea7f2583647d39a70be8ac08876f5e6cbdf3065525c97",
+    "mtbs_perims_DD.dbf": "3124e012247a29f8b6d51775252ccffeaf09109d68884ba8488c5308991fe906",
+    "mtbs_perims_DD.shx": "9eacc77f78a9a2e06178c5e424ed0e93339a2c020f0de72fa42899a3d8dd2c53",
+    "mtbs_perims_DD.prj": "84cf5b9a3c1a444f83ac30ff76f8c5035990223027ba69b2f4d628388adcbd65"
+  },
+  "regions": {
+    "northern-plains": {
+      "label": "Northern Plains context",
+      "bounds": [
+        -103.6,
+        42.5,
+        -99.8,
+        45.5
+      ],
+      "mapped_events": 220,
+      "by_type": {
+        "Wildfire": 185,
+        "Prescribed Fire": 30,
+        "Wildland Fire Use": 0,
+        "Unknown": 5
+      },
+      "files": [
+        "history_northern-plains.geojson",
+        "history_northern-plains.csv"
+      ],
+      "note": "A broad South Dakota regional window; not a collective Oceti Sakowin territory or a reservation boundary."
+    },
+    "southwest-colorado": {
+      "label": "Southwest Colorado context",
+      "bounds": [
+        -109.2,
+        36.8,
+        -106.8,
+        38.1
+      ],
+      "mapped_events": 71,
+      "by_type": {
+        "Wildfire": 55,
+        "Prescribed Fire": 9,
+        "Wildland Fire Use": 2,
+        "Unknown": 5
+      },
+      "files": [
+        "history_southwest-colorado.geojson",
+        "history_southwest-colorado.csv"
+      ],
+      "note": "A regional window relevant to discussions involving Southern Ute and Ute Mountain Ute; counts are not attributed to either Nation."
+    },
+    "central-arizona": {
+      "label": "Central Arizona context",
+      "bounds": [
+        -111.5,
+        32.5,
+        -109.2,
+        34.5
+      ],
+      "mapped_events": 458,
+      "by_type": {
+        "Wildfire": 297,
+        "Prescribed Fire": 112,
+        "Wildland Fire Use": 3,
+        "Unknown": 46
+      },
+      "files": [
+        "history_central-arizona.geojson",
+        "history_central-arizona.csv"
+      ],
+      "note": "A broad regional window for a San Carlos Apache discussion; not the reservation boundary."
+    },
+    "klamath-region": {
+      "label": "Klamath region context",
+      "bounds": [
+        -124.3,
+        40.8,
+        -122.2,
+        42.2
+      ],
+      "mapped_events": 163,
+      "by_type": {
+        "Wildfire": 159,
+        "Prescribed Fire": 3,
+        "Wildland Fire Use": 0,
+        "Unknown": 1
+      },
+      "files": [
+        "history_klamath-region.geojson",
+        "history_klamath-region.csv"
+      ],
+      "note": "A broad regional window for separate Yurok and Karuk case discussions; not a map of either Nation's territory."
+    }
+  },
+  "product_sha256": {
+    "history_northern-plains.geojson": "88c0fdf2f2f315117468a8794c32dab2b763c1cc750c7c6ec90489b6681719c9",
+    "history_northern-plains.csv": "5b248db08723628b3fff1ce5d02041f102e00e2f2ad60a99864577854a13e258",
+    "history_southwest-colorado.geojson": "3d829100ff92f8c5ef534a3c818b880ce76ae414957abc45733bdf6d0cf51626",
+    "history_southwest-colorado.csv": "8df1152aae91f2fee8f7eb891a57b63960bffbdfa2f27cbb3a9cccd50c156283",
+    "history_central-arizona.geojson": "c4bbda64f45f0cb19798cad8ce823a7b9434f3b95c100bc828a9e40b9a94722c",
+    "history_central-arizona.csv": "35fcad0125f3e1893c3cc136a133d6e1a5a7a6f9bde6b937988a38839d5cb6d9",
+    "history_klamath-region.geojson": "36322f85e5fdfa37c6293fcb706292fad9f44124c7a3d0b52c3cf5b105497aa5",
+    "history_klamath-region.csv": "0f2fed821f80e046a3704762e16e19a1ddc10013cefe8d8092a9ccb134581a90"
+  }
+}

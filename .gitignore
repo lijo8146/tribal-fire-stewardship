@@ -1,0 +1,16 @@
+_site/
+.quarto/
+*_files/
+site_libs/
+*.quarto_ipynb
+__pycache__/
+.ipynb_checkpoints/
+work/
+data/private/
+data/raw/
+data/history-build-*/
+data/processed.previous/
+.env
+
+/.quarto/
+**/*.quarto_ipynb

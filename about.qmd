@@ -1,0 +1,34 @@
+---
+title: "About this prototype"
+subtitle: "Purpose, scope and a practical first phase"
+---
+
+Prepared by **Lilly Jones, PhD**, as a discussion prototype following interest in adapting the Tribal Fire Science sandbox for ESIIL. This release is not an official ESIIL product or an agreement with any named Nation or organization. No logos or endorsements have been assumed.
+
+## What is ready
+
+- Four executable research notebooks and a readable companion site.
+- Real MTBS context examples for four regional windows.
+- Six distinct public-source case contexts, including separate Southern Ute and Ute Mountain Ute discussions and separate Yurok and Karuk cases.
+- Blank research, governance, exchange and monitoring materials.
+- Validated paired-analysis code that requires observations before estimating outcomes.
+
+## A proposed first phase
+
+| Step | Proposed work | What completion would look like |
+|---|---|---|
+| Frame | Discuss the four modules with Jennifer and relevant ESIIL colleagues | A narrower question, intended audience and suitable existing program connection |
+| Invite | Ask appropriate existing and prospective partners whether the work would be useful | Willing participation and clearly identified authorities; no inferred agreement |
+| Design | Agree on benefits, compensation, data handling and interpretation | A completed partner brief and monitoring protocol where wanted |
+| Pilot | Use one public-data teaching example and, if agreed, one partner-defined study | A useful learning output and documented feedback |
+| Review | Decide what to revise, share or discontinue | Partner-specific release decisions and an agreed next step |
+
+## What stays outside this first release
+
+Active-fire prediction, burn prescriptions, automated “opportunity” or capacity rankings, cultural-site mapping and unvalidated fire-speed experiments. Weather, smoke, watershed and advanced modeling modules can be considered after the core questions and relationships are clearer.
+
+## Lineage and licensing
+
+The starting point was the Tribal Fire Science sandbox by Lilly Jones, developed in consultation with James Sanovia. The new project retains that lineage and the AGPL-3.0 license, while using a smaller, newly written analysis package. The existing sandbox was left untouched. [Original software citation](https://doi.org/10.5281/zenodo.19265139).
+
+Third-party source materials retain their own terms. The software license does not confer rights over Indigenous knowledge, partner observations or third-party content.

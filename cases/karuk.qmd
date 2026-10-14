@@ -1,0 +1,40 @@
+---
+title: "Karuk Tribe"
+subtitle: "Public-source case context · Module 03"
+---
+
+::: {.lead}
+Separate from the Yurok case.
+:::
+
+## What is publicly documented
+
+::: {.case-evidence}
+Karuk public materials describe cultural-fire practitioner support. Good Fire II addresses barriers to beneficial fire; a published California agreement offers an example of enabling conditions.
+:::
+
+Sources: [Karuk Tribe: Eco-Culture Revitalization](https://www.karuk.us/departments/natural-resources-dnr/eco-culture-revitalization); [Karuk Tribe: Good Fire II](https://www.karuk.us/posts/good-fire-2-report-officially-released); [Karuk Tribe: California–Karuk cultural burning agreement](https://www.karuk.us/posts/california-partners-with-karuk-tribe-on-groundbreaking-cultural-burning-agreement). Reviewed October 14, 2026.
+
+## Relationship status
+
+Potential learning relationship; no invitation or agreement is implied.
+
+## A proposed question to discuss
+
+Which lessons about authority, practitioner support and sustained implementation might inform discussions elsewhere?
+
+This question was drafted for the prototype; it is not attributed to the Nation, organization or practitioners.
+
+## A possible learning contribution
+
+Examine enabling institutions alongside ecological observations.
+
+## What remains context-specific
+
+Karuk practices and California-specific arrangements are not transferable prescriptions for other Nations or states.
+
+## Link to regional context
+
+The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle, not this Nation or organization. Regional adjacency does not establish a research relationship or shared authority.
+
+[Return to the six case contexts](../learning.qmd).

@@ -1,0 +1,40 @@
+---
+title: "San Carlos Apache"
+subtitle: "Public-source case context · Module 03"
+---
+
+::: {.lead}
+A separate potential case led by interested San Carlos Apache partners.
+:::
+
+## What is publicly documented
+
+::: {.case-evidence}
+STARS publicly lists San Carlos Apache College student work on drought and, in an earlier cohort, air quality with Tohono O’odham Community College.
+:::
+
+Sources: [ESIIL: ESIIL STARS](https://esiil.org/esiil-stars). Reviewed October 14, 2026.
+
+## Relationship status
+
+San Carlos Apache College participates in STARS; this does not establish a Tribal government research agreement.
+
+## A proposed question to discuss
+
+Could locally chosen fire–drought or smoke questions build on the existing student projects?
+
+This question was drafted for the prototype; it is not attributed to the Nation, organization or practitioners.
+
+## A possible learning contribution
+
+Connect a new question to educational work that partners already find useful.
+
+## What remains context-specific
+
+College participation, Tribal government authority and community permissions are distinct.
+
+## Link to regional context
+
+The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle, not this Nation or organization. Regional adjacency does not establish a research relationship or shared authority.
+
+[Return to the six case contexts](../learning.qmd).

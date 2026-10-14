@@ -1,0 +1,51 @@
+---
+title: "Tribal-led Fire Stewardship"
+subtitle: "An ESIIL synthesis and learning series"
+toc: false
+---
+
+::: {.eyebrow}
+Public-source discussion prototype · Version 0.1
+:::
+
+::: {.hero}
+What enables Tribal Nations to use fire for the outcomes they value—and how can environmental data science support that work?
+:::
+
+::: {.lead}
+Four connected modules bring together public fire records, stewardship case studies, research design, and practical teaching materials. They offer a starting point for conversations with ESIIL and interested Tribal partners, with questions and authority defined through those relationships.
+:::
+
+::: {.pill-row}
+[Four runnable notebooks]{.pill} [Real MTBS history, 1984–2024]{.pill} [Six distinct partner contexts]{.pill} [Keyless maps]{.pill}
+:::
+
+## Follow the four modules
+
+::: {.module-grid}
+[**01 · Questions & authority** Start with the question, its benefit, the appropriate decision makers, and the terms for working together.](questions.qmd){.module-card}
+
+[**02 · Fire history & its limits** Explore four regional windows in a real public fire record, including the burns that large-fire datasets may miss.](history.qmd){.module-card}
+
+[**03 · Stewardship & exchange** Read distinct public-source cases and identify what an invited, compensated learning exchange could explore.](learning.qmd){.module-card}
+
+[**04 · Monitoring outcomes** Specify outcomes, comparisons and field observations, then analyze changes when suitable observations are available.](monitoring.qmd){.module-card}
+:::
+
+## Different places, shared questions
+
+The proposed case contexts include interested Lakota and other Oceti Sakowin Nations, San Carlos Apache, Southern Ute, Ute Mountain Ute, Yurok and the Cultural Fire Management Council, and Karuk. Each has its own authority, history and land relationships. No participation in this new series is assumed. [Meet the case contexts](learning.qmd).
+
+## Why this fits ESIIL
+
+ESIIL’s public research agenda connects environmental synthesis, extreme disturbances, biodiversity, teaching and team science. Its STARS program and Observing Unci Maka offer existing educational and community-developed earth-observation foundations. This prototype proposes a fire-stewardship application of that approach. [ESIIL research](https://esiil.org/research), [STARS](https://esiil.org/esiil-stars), [Observing Unci Maka](https://esiil.org/working-groups/observing-unci-maka).
+
+## Choose an entry point
+
+- **For a research conversation:** read the [questions module](questions.qmd) and [monitoring design](monitoring.qmd).
+- **For a class or STARS project:** use the [four-session teaching pathway](teaching.qmd).
+- **For a potential exchange:** begin with the [case studies and draft agenda](learning.qmd).
+
+::: {.callout-note appearance="simple"}
+Prepared by Lilly Jones, PhD for discussion. This is not an official ESIIL program, a Tribal proposal, an agreed partnership, or an operational fire tool. It contains public-source regional examples; no partner field records or cultural-site locations have been added.
+:::

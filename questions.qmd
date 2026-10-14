@@ -1,0 +1,48 @@
+---
+title: "01 · Questions & authority"
+subtitle: "Define the work with the people whose decisions it should support"
+---
+
+::: {.lead}
+A useful synthesis starts with a question a partner wants answered, a clear benefit, and an explicit account of who decides about the work. The first deliverable is a shared research brief.
+:::
+
+## Build a research brief
+
+| Decision | What the brief should establish |
+|---|---|
+| Question and purpose | What decision or learning need motivates the work? Who proposed it? |
+| Appropriate authority | Which government, program, organization or knowledge holders decide about each part? |
+| Place and scale | Which study area is appropriate, and who defines it? |
+| Benefit and compensation | What will partners receive? How will staff, practitioners and students be compensated? |
+| Data stewardship | Who holds records, manages access and documents permitted uses? |
+| Interpretation | Who reviews how findings are described and what uncertainty means locally? |
+| Release and retention | Who may authorize each output? What happens if participation or permission changes? |
+
+[Download the blank research brief](templates/partner-plan.yml){.download-link}
+[Download a release record](templates/release-record.yml){.download-link}
+
+## Work with different kinds of information
+
+| Layer | Included in this prototype | Handling in future work |
+|---|---|---|
+| Public sources | Published program descriptions and public MTBS perimeters | Cite, version and retain limitations; public availability does not establish authority over Tribal interpretation. |
+| Partner observations | None | Hold in a location chosen by the partner; agree on access and use. |
+| Cultural knowledge or sensitive locations | None | Do not solicit or encode them by default. Holders determine whether anything is shared and on what terms. |
+| Research outputs | Regional descriptive figures and blank protocols | Separate public-source teaching products from partner-specific findings and release decisions. |
+
+## Put local protocols first
+
+CARE provides supporting questions about collective benefit, authority to control, responsibility and ethics. A Nation’s own laws, research codes and protocols determine the arrangement. Technical openness alone does not establish permission to reuse knowledge or publish a partner-specific result. [GIDA: CARE Principles](https://www.gida-global.org/careprinciples).
+
+OCAP® is specifically a First Nations framework developed by the First Nations Information Governance Centre. It is cited here as relevant governance scholarship, not imposed as a universal protocol for the Nations in this series. OCAP® is a registered trademark of FNIGC. [FNIGC explanation](https://fnigc.ca/ocap-training/).
+
+## Practice: identify unresolved decisions
+
+The notebook checks a blank plan for missing decisions and checks whether a release record contains explicit approval. It does not certify consent or assign a readiness score to a Nation.
+
+[Open notebook 01](notebooks/01_questions_and_authority.ipynb){.download-link}
+
+::: {.worksheet}
+**Discussion output:** one proposed question; a statement of benefit; the authorities who would need to shape the work; and a short list of unresolved decisions. Use public case materials for the classroom exercise. Do not ask students to disclose cultural knowledge or speak for a Nation.
+:::

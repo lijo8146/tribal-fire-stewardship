@@ -1,0 +1,40 @@
+---
+title: "Yurok / Cultural Fire Management Council"
+subtitle: "Public-source case context · Module 03"
+---
+
+::: {.lead}
+Separate organizational and Tribal authorities must be identified.
+:::
+
+## What is publicly documented
+
+::: {.case-evidence}
+CFMC is a community-based nonprofit whose stated mission connects cultural burning on the Yurok Reservation and ancestral lands with ecosystem health, protection, hunting and gathering.
+:::
+
+Sources: [Cultural Fire Management Council: Cultural Fire Management Council](https://www.culturalfire.org/). Reviewed October 14, 2026.
+
+## Relationship status
+
+Potential learning relationship; no invitation or agreement is implied.
+
+## A proposed question to discuss
+
+What would practitioners choose to share about sustaining cultural fire, teaching, access and community-defined outcomes?
+
+This question was drafted for the prototype; it is not attributed to the Nation, organization or practitioners.
+
+## A possible learning contribution
+
+Learn from practitioner-defined purposes and the institutional work that enables them.
+
+## What remains context-specific
+
+CFMC and Yurok Tribal government are not interchangeable authorities; public materials do not grant access to restricted knowledge.
+
+## Link to regional context
+
+The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle, not this Nation or organization. Regional adjacency does not establish a research relationship or shared authority.
+
+[Return to the six case contexts](../learning.qmd).

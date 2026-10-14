@@ -1,0 +1,87 @@
+---
+title: "02 · Fire history & its limits"
+subtitle: "What a large-fire record can show—and the questions it leaves open"
+---
+
+::: {.lead}
+These maps describe public MTBS events intersecting four broad regional windows. They provide context for research conversations. Counts are not assigned to Tribal Nations and do not rate stewardship, risk or need.
+:::
+
+## Read the record carefully
+
+MTBS maps large fires, including recorded prescribed fires, with standard size thresholds of 1,000 acres in the western United States and 500 acres in the eastern United States. Small burns can be absent from the record. A mapped “Prescribed Fire” classification does not establish that a burn was cultural fire; “Unknown” remains unknown. [MTBS mapping guidance](https://www.mtbs.gov/faq/fire-mapping).
+
+The selected local snapshot contains records from 1984 through 2024. Its original download date is unknown; the build records the date it was inspected, hashes of the source components, and hashes of every regional output. No 2025 or 2026 history has been inferred.
+
+## Explore a regional window
+
+The incident-type colors are consistent across maps and charts: rust for wildfire, teal for prescribed fire, gold for wildland fire use, and gray for unknown. Use the map layer button to toggle types or select **Data only (no basemap)**. OpenStreetMap tiles require internet access, but no API key.
+
+::: {.panel-tabset}
+
+## Northern Plains
+
+```{python}
+#| output: asis
+from esiilfire.present import region_brief, history_map, history_chart
+print(region_brief("northern-plains"))
+```
+
+```{python}
+from IPython.display import display, HTML
+display(HTML(history_map("northern-plains")))
+display(HTML(history_chart("northern-plains")))
+```
+
+## Southwest Colorado
+
+```{python}
+#| output: asis
+print(region_brief("southwest-colorado"))
+```
+
+```{python}
+display(HTML(history_map("southwest-colorado")))
+display(HTML(history_chart("southwest-colorado")))
+```
+
+## Central Arizona
+
+```{python}
+#| output: asis
+print(region_brief("central-arizona"))
+```
+
+```{python}
+display(HTML(history_map("central-arizona")))
+display(HTML(history_chart("central-arizona")))
+```
+
+## Klamath region
+
+```{python}
+#| output: asis
+print(region_brief("klamath-region"))
+```
+
+```{python}
+display(HTML(history_map("klamath-region")))
+display(HTML(history_chart("klamath-region")))
+```
+
+:::
+
+::: {.map-caption}
+Source: public MTBS burned-area perimeters. Events are deduplicated by identifier, clipped to each regional window, and counted once per window. Mapped areas that reburn can contribute to multiple events. Display polygons are simplified at 100 m; calculations use the unsimplified clipped geometry. Regional boxes are not Tribal territories, reservation boundaries or proposed treatment areas.
+:::
+
+## What would strengthen the account?
+
+- A partner-defined study area, with an explanation of what that extent represents.
+- Local records of small burns, only where their holders choose to contribute them.
+- Separate accounts of observed fire growth, fire weather, fuel conditions and stewardship objectives.
+- Clear missing-data statements. Absence from a large-fire archive is not evidence that no burning occurred.
+
+[Open notebook 02](notebooks/02_fire_history_and_limits.ipynb){.download-link}
+
+**Exercise:** describe one pattern within a selected window, identify two explanations the archive cannot distinguish, and name the additional evidence needed before interpreting that pattern.

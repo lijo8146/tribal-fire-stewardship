@@ -1,0 +1,33 @@
+---
+title: "A four-session teaching pathway"
+subtitle: "Adaptable exercises for STARS participants and synthesis teams"
+---
+
+The sessions can be used independently or as a short sequence. No cultural disclosure, field burning or operational fire decisions are part of these classroom activities. Python experience is useful for modules 02 and 04; the discussion and worksheet paths work without coding.
+
+| Session | Suggested time | Learner task | Tangible output |
+|---|---:|---|---|
+| 01 · Questions & authority | 75 minutes | Separate public evidence, a proposed question and a release decision | A draft brief with unresolved decisions explicitly listed |
+| 02 · Fire history & its limits | 90 minutes | Explore one regional window, reproduce a count, investigate detection limits | One sourced pattern, two competing explanations, one additional evidence need |
+| 03 · Stewardship & exchange | 75 minutes | Read two separate public cases and compare enabling conditions | A source-backed learning question and a statement of what cannot be generalized |
+| 04 · Monitoring outcomes | 90 minutes | Specify a paired design and inspect the validation rules | A protocol, blank observation schema, and a careful interpretation of hypothetical arithmetic |
+
+## Suggested teaching rhythm
+
+Allocate roughly one quarter of a session to framing and sources, one half to the exercise, and one quarter to discussion. Mixed teams can assign a source reader, data checker, analyst and interpretation reviewer, then rotate those responsibilities.
+
+## Assessment criteria
+
+- Can the learner distinguish a source-supported fact from a proposed interpretation?
+- Are units, scale, observation coverage and missingness described correctly?
+- Does the output retain the authority and context needed to interpret it?
+- Can another learner reproduce the public-data transformation?
+- Does the learner explain what the analysis cannot establish?
+
+Assess the quality of reasoning and reproducibility. Do not assess students on cultural knowledge or ask them to represent their communities.
+
+## Facilitator materials
+
+The repository includes a facilitator guide and answer notes in `docs/facilitator-guide.md`. They explain the analytical checkpoints rather than supply a preferred cultural or political answer.
+
+[Module 01](questions.qmd) · [Module 02](history.qmd) · [Module 03](learning.qmd) · [Module 04](monitoring.qmd)

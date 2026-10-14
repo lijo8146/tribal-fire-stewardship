@@ -1,0 +1,90 @@
+[
+  {
+    "id": "oceti",
+    "name": "Lakota and other Oceti Sakowin Nations",
+    "scope": "Partner-selected Nations; no single collective study boundary",
+    "region": "northern-plains",
+    "relationship": "Existing ESIIL educational relationships are documented; participation in this proposed series is not confirmed.",
+    "evidence": "ESIIL STARS includes Oglala Lakota College. Observing Unci Maka describes community-developed earth-observation methods.",
+    "sources": [
+      "esiil-stars",
+      "unci-maka"
+    ],
+    "question": "Which relationships among grassland fire, grazing, drought and community priorities would participating Nations want to examine?",
+    "learn": "Begin with the existing relationships and each Nation’s own definitions of useful evidence.",
+    "retain": "Study areas, culturally important outcomes and release decisions remain specific to each participating Nation."
+  },
+  {
+    "id": "san-carlos",
+    "name": "San Carlos Apache",
+    "scope": "A separate potential case led by interested San Carlos Apache partners",
+    "region": "central-arizona",
+    "relationship": "San Carlos Apache College participates in STARS; this does not establish a Tribal government research agreement.",
+    "evidence": "STARS publicly lists San Carlos Apache College student work on drought and, in an earlier cohort, air quality with Tohono O’odham Community College.",
+    "sources": [
+      "esiil-stars"
+    ],
+    "question": "Could locally chosen fire–drought or smoke questions build on the existing student projects?",
+    "learn": "Connect a new question to educational work that partners already find useful.",
+    "retain": "College participation, Tribal government authority and community permissions are distinct."
+  },
+  {
+    "id": "southern-ute",
+    "name": "Southern Ute Indian Tribe",
+    "scope": "Distinct prospective partner context",
+    "region": "southwest-colorado",
+    "relationship": "A CU collaboration is publicly reported; participation in this new series is not confirmed.",
+    "evidence": "Southern Ute describes forestry, fuels and prescribed fire services. Its newspaper reported a CU Boulder–USFS collaboration on treatment impacts and Tribal cultural values in the Brunot Area.",
+    "sources": [
+      "southern-ute-forestry",
+      "southern-ute-brunot"
+    ],
+    "question": "What monitoring or synthesis would complement the existing Brunot Area collaboration and the Tribe’s own forestry questions?",
+    "learn": "Support existing work and distinguish cultural values from generic fuel-reduction metrics.",
+    "retain": "Treaty-use and ancestral-land questions may extend beyond reservation boundaries; the relevant extent must be defined with the Tribe."
+  },
+  {
+    "id": "ute-mountain",
+    "name": "Ute Mountain Ute Tribe",
+    "scope": "Distinct prospective partner context",
+    "region": "southwest-colorado",
+    "relationship": "No ESIIL partnership for this series is asserted.",
+    "evidence": "The BIA Ute Mountain Ute Agency lists forestry and fire-management branches. This establishes an agency context, not the Tribe’s preferred research agenda.",
+    "sources": [
+      "ute-mountain-agency"
+    ],
+    "question": "Which woodland, fuels, resource-use or community-protection questions would the Tribe want a synthesis team to support?",
+    "learn": "Ask the Tribe which existing programs and priorities should shape a case.",
+    "retain": "Do not infer Tribal staffing, capacity, priorities or governance from the federal agency listing."
+  },
+  {
+    "id": "yurok",
+    "name": "Yurok / Cultural Fire Management Council",
+    "scope": "Separate organizational and Tribal authorities must be identified",
+    "region": "klamath-region",
+    "relationship": "Potential learning relationship; no invitation or agreement is implied.",
+    "evidence": "CFMC is a community-based nonprofit whose stated mission connects cultural burning on the Yurok Reservation and ancestral lands with ecosystem health, protection, hunting and gathering.",
+    "sources": [
+      "cfmc"
+    ],
+    "question": "What would practitioners choose to share about sustaining cultural fire, teaching, access and community-defined outcomes?",
+    "learn": "Learn from practitioner-defined purposes and the institutional work that enables them.",
+    "retain": "CFMC and Yurok Tribal government are not interchangeable authorities; public materials do not grant access to restricted knowledge."
+  },
+  {
+    "id": "karuk",
+    "name": "Karuk Tribe",
+    "scope": "Separate from the Yurok case",
+    "region": "klamath-region",
+    "relationship": "Potential learning relationship; no invitation or agreement is implied.",
+    "evidence": "Karuk public materials describe cultural-fire practitioner support. Good Fire II addresses barriers to beneficial fire; a published California agreement offers an example of enabling conditions.",
+    "sources": [
+      "karuk-program",
+      "karuk-good-fire",
+      "karuk-agreement"
+    ],
+    "question": "Which lessons about authority, practitioner support and sustained implementation might inform discussions elsewhere?",
+    "learn": "Examine enabling institutions alongside ecological observations.",
+    "retain": "Karuk practices and California-specific arrangements are not transferable prescriptions for other Nations or states."
+  }
+]
