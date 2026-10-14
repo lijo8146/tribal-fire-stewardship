@@ -102,12 +102,12 @@
   },
   "product_sha256": {
     "history_northern-plains.geojson": "88c0fdf2f2f315117468a8794c32dab2b763c1cc750c7c6ec90489b6681719c9",
-    "history_northern-plains.csv": "5b248db08723628b3fff1ce5d02041f102e00e2f2ad60a99864577854a13e258",
+    "history_northern-plains.csv": "b2d7297fdbfef6dc01f02a915eeabdbb9ad1d9c9e730ae173772bcb9bce633b4",
     "history_southwest-colorado.geojson": "3d829100ff92f8c5ef534a3c818b880ce76ae414957abc45733bdf6d0cf51626",
-    "history_southwest-colorado.csv": "8df1152aae91f2fee8f7eb891a57b63960bffbdfa2f27cbb3a9cccd50c156283",
+    "history_southwest-colorado.csv": "09019fb7e354376fa967a7573f76369819658a58d9adcd914258fcf61ab60d03",
     "history_central-arizona.geojson": "c4bbda64f45f0cb19798cad8ce823a7b9434f3b95c100bc828a9e40b9a94722c",
-    "history_central-arizona.csv": "35fcad0125f3e1893c3cc136a133d6e1a5a7a6f9bde6b937988a38839d5cb6d9",
+    "history_central-arizona.csv": "e8ce8a9d85f97adf54b69483f0356b23f0e72a9f373a8b9cb29e2e2303b9c53e",
     "history_klamath-region.geojson": "36322f85e5fdfa37c6293fcb706292fad9f44124c7a3d0b52c3cf5b105497aa5",
-    "history_klamath-region.csv": "0f2fed821f80e046a3704762e16e19a1ddc10013cefe8d8092a9ccb134581a90"
+    "history_klamath-region.csv": "2da53cf3f55cee66f2145da5e46a575457ce1c5a718d0d2b5bb2be905df58088"
   }
 }

@@ -2,3 +2,8 @@
 *.ipynb text eol=lf
 *.py text eol=lf
 *.qmd text eol=lf
+
+# Hashed public products must have identical bytes on Windows and Linux.
+/data/processed/*.csv text eol=lf
+/data/processed/*.geojson text eol=lf
+/data/processed/*.json text eol=lf

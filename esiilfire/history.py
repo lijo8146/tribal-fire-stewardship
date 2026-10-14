@@ -71,7 +71,7 @@ def build_history(path,regions,outdir):
         display=clipped[["event_id","name","type","year","acres_in_window","geometry"]].copy()
         display["geometry"]=display.to_crs(5070).geometry.simplify(100).to_crs(4326).apply(make_valid).apply(lambda g:set_precision(g,1e-7))
         display.to_file(outdir/f"history_{key}.geojson",driver="GeoJSON",COORDINATE_PRECISION=7)
-        annual.to_csv(outdir/f"history_{key}.csv",index=False)
+        annual.to_csv(outdir/f"history_{key}.csv",index=False,lineterminator="\n")
         roundtrip=gpd.read_file(outdir/f"history_{key}.geojson")
         if len(roundtrip)!=len(clipped) or (len(roundtrip) and (roundtrip.event_id.duplicated().any() or not roundtrip.geometry.is_valid.all())):
             raise ValueError("Serialized regional geometry failed validation")
