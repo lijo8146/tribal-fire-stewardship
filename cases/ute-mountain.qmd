@@ -10,20 +10,17 @@ Distinct prospective partner context.
 ## What is publicly documented
 
 ::: {.case-evidence}
-The BIA Ute Mountain Ute Agency lists forestry and fire-management branches. This establishes an agency context, not the Tribe’s preferred research agenda.
+The BIA Ute Mountain Ute Agency lists forestry and fire-management branches. This establishes an agency context, although that might not be the Tribe’s preferred research agenda.
 :::
 
 Sources: [Bureau of Indian Affairs: Ute Mountain Ute Agency](https://www.bia.gov/regional-offices/southwest/ute-mountain-ute-agency). Reviewed October 14, 2026.
 
-## Relationship status
-
-No ESIIL partnership for this series is asserted.
 
 ## A proposed question to discuss
 
 Which woodland, fuels, resource-use or community-protection questions would the Tribe want a synthesis team to support?
 
-This question was drafted for the prototype; it is not attributed to the Nation, organization or practitioners.
+This question was drafted for the prototype.
 
 ## A possible learning contribution
 
@@ -35,6 +32,6 @@ Do not infer Tribal staffing, capacity, priorities or governance from the federa
 
 ## Link to regional context
 
-The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle, not this Nation or organization. Regional adjacency does not establish a research relationship or shared authority.
+The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle.
 
 [Return to the six case contexts](../learning.qmd).

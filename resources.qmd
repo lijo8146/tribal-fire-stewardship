@@ -9,10 +9,10 @@ Read a notebook in your browser, or download the `.ipynb` file to run it in Jupy
 
 To run a notebook, download it into the project’s `notebooks/` directory, activate the supplied environment, and run it from the repository. The notebooks use the same helpers and public-data snapshot as the website. The downloadable sources contain no saved outputs.
 
-- [01 Questions and authority](notebooks/01_questions_and_authority.html) · [Download .ipynb](notebooks/01_questions_and_authority.ipynb){download=""}
-- [02 Fire history and its limits](notebooks/02_fire_history_and_limits.html) · [Download .ipynb](notebooks/02_fire_history_and_limits.ipynb){download=""}
-- [03 Stewardship and exchange](notebooks/03_stewardship_and_exchange.html) · [Download .ipynb](notebooks/03_stewardship_and_exchange.ipynb){download=""}
-- [04 Monitoring outcomes](notebooks/04_monitoring_outcomes.html) · [Download .ipynb](notebooks/04_monitoring_outcomes.ipynb){download=""}
+- [01 Questions and authority](notebooks/01_questions_and_authority.html) [Download .ipynb](notebooks/01_questions_and_authority.ipynb){download=""}
+- [02 Fire history and its limits](notebooks/02_fire_history_and_limits.html) [Download .ipynb](notebooks/02_fire_history_and_limits.ipynb){download=""}
+- [03 Stewardship and exchange](notebooks/03_stewardship_and_exchange.html) [Download .ipynb](notebooks/03_stewardship_and_exchange.ipynb){download=""}
+- [04 Monitoring outcomes](notebooks/04_monitoring_outcomes.html) [Download .ipynb](notebooks/04_monitoring_outcomes.ipynb){download=""}
 
 ## Blank worksheets
 

@@ -10,7 +10,7 @@ Distinct prospective partner context.
 ## What is publicly documented
 
 ::: {.case-evidence}
-Southern Ute describes forestry, fuels and prescribed fire services. Its newspaper reported a CU Boulder–USFS collaboration on treatment impacts and Tribal cultural values in the Brunot Area.
+Southern Ute describes forestry, fuels and prescribed fire services. Its newspaper reported a CU Boulder-USFS collaboration on treatment impacts and Tribal cultural values in the Brunot Area.
 :::
 
 Sources: [Southern Ute Indian Tribe: Southern Ute Forestry Division](https://www.southernute-nsn.gov/natural-resources/forestry/); [Southern Ute Drum; Southern Ute Forestry: Fire impacts in the Brunot Area](https://www.sudrum.com/eEditions/DrumPDF/2025/SUDrum-20250502.pdf). Reviewed October 14, 2026.
@@ -23,7 +23,7 @@ A CU collaboration is publicly reported; participation in this new series is not
 
 What monitoring or synthesis would complement the existing Brunot Area collaboration and the Tribe’s own forestry questions?
 
-This question was drafted for the prototype; it is not attributed to the Nation, organization or practitioners.
+This question was drafted for the prototype.
 
 ## A possible learning contribution
 
@@ -35,6 +35,5 @@ Treaty-use and ancestral-land questions may extend beyond reservation boundaries
 
 ## Link to regional context
 
-The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle, not this Nation or organization. Regional adjacency does not establish a research relationship or shared authority.
-
+The [fire-history module](../history.qmd) includes a broad regional window associated with this discussion. Its event counts describe that rectangle.
 [Return to the six case contexts](../learning.qmd).

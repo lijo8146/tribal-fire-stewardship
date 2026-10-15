@@ -45,5 +45,5 @@ def summarize_pairs(changes, seed=2026):
         rng = np.random.default_rng(seed)
         means = rng.choice(values, size=(2000,len(values)), replace=True).mean(axis=1)
         result["interval"] = np.quantile(means,[0.025,0.975]).tolist()
-    result["interpretation"] = "Descriptive paired contrast, not an identified causal effect. A pair bootstrap interval is provided only for 10+ independently selected pairs."
+    result["interpretation"] = "Descriptive paired contrast. A pair bootstrap interval is provided only for 10+ independently selected pairs."
     return result

@@ -4,7 +4,7 @@ subtitle: "Public-source case context Module 03"
 ---
 
 ::: {.lead}
-A separate potential case led by interested San Carlos Apache partners.
+A potential case led by interested San Carlos Apache partners.
 :::
 
 ## What is publicly documented
@@ -21,9 +21,9 @@ San Carlos Apache College participates in STARS.
 
 ## A proposed question to discuss
 
-Could locally chosen fire-drought or smoke questions build on the existing student projects?
+Could locally chosen fire-drought or smoke questions build on the existing Stars student projects?
 
-This question was drafted for the prototype, not by any Tribal partner.
+This question was drafted for the prototype.
 
 ## A possible learning contribution
 
