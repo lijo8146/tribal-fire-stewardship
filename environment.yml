@@ -12,6 +12,7 @@ dependencies:
   - folium
   - branca
   - pyyaml
+  - nbconvert
   - nbformat
   - nbclient
   - ipykernel

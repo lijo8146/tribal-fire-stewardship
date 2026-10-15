@@ -44,6 +44,7 @@ Cultural burning is not defined here as a generic fuel treatment. Practitioners 
 4. Produce an agreed learning record, including what should not be generalized or shared further.
 
 [Download a draft exchange agenda](templates/exchange-agenda.md){.download-link}
-[Open notebook 03](notebooks/03_stewardship_and_exchange.ipynb){.download-link}
+[Read notebook 03](notebooks/03_stewardship_and_exchange.html){.download-link}
+[Download notebook 03 (.ipynb)](notebooks/03_stewardship_and_exchange.ipynb){.download-link download=""}
 
 **Exercise:** use two public cases to identify one shared enabling condition and one important difference. Record a source for each statement. 

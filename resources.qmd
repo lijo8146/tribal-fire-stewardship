@@ -5,21 +5,23 @@ subtitle: "Traceable public evidence and reusable research materials"
 
 ## Research notebooks
 
-Download a notebook into the project’s `notebooks/` directory, activate the supplied environment, and run it from the repository. The notebooks use the same helpers and public-data snapshot as the website. The downloadable sources contain no saved outputs.
+Read a notebook in your browser, or download the `.ipynb` file to run it in JupyterLab. Previews show the source text and code without execution results.
 
-- [01 Questions and authority](notebooks/01_questions_and_authority.ipynb)
-- [02 Fire history and its limits](notebooks/02_fire_history_and_limits.ipynb)
-- [03 Stewardship and exchange](notebooks/03_stewardship_and_exchange.ipynb)
-- [04 Monitoring outcomes](notebooks/04_monitoring_outcomes.ipynb)
+To run a notebook, download it into the project’s `notebooks/` directory, activate the supplied environment, and run it from the repository. The notebooks use the same helpers and public-data snapshot as the website. The downloadable sources contain no saved outputs.
+
+- [01 Questions and authority](notebooks/01_questions_and_authority.html) · [Download .ipynb](notebooks/01_questions_and_authority.ipynb){download=""}
+- [02 Fire history and its limits](notebooks/02_fire_history_and_limits.html) · [Download .ipynb](notebooks/02_fire_history_and_limits.ipynb){download=""}
+- [03 Stewardship and exchange](notebooks/03_stewardship_and_exchange.html) · [Download .ipynb](notebooks/03_stewardship_and_exchange.ipynb){download=""}
+- [04 Monitoring outcomes](notebooks/04_monitoring_outcomes.html) · [Download .ipynb](notebooks/04_monitoring_outcomes.ipynb){download=""}
 
 ## Blank worksheets
 
-- [Partner research brief](templates/partner-plan.yml)
-- [Release decision](templates/release-record.yml)
-- [Monitoring protocol](templates/monitoring-protocol.yml)
-- [Observation CSV](templates/monitoring-observations.csv)
-- [Exchange agenda](templates/exchange-agenda.md)
-- [Compensation and expenses worksheet](templates/compensation.csv)
+- [Partner research brief](templates/partner-plan.yml){download=""}
+- [Release decision](templates/release-record.yml){download=""}
+- [Monitoring protocol](templates/monitoring-protocol.yml){download=""}
+- [Observation CSV](templates/monitoring-observations.csv){download=""}
+- [Exchange agenda](templates/exchange-agenda.md){download=""}
+- [Compensation and expenses worksheet](templates/compensation.csv){download=""}
 
 ## Public source register
 

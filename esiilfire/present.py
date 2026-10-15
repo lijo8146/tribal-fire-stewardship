@@ -6,6 +6,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import folium
+from branca.element import MacroElement, Template
 from . import ROOT
 from .io import history_manifest,sources
 COLORS={"Wildfire":"#a34f32","Prescribed Fire":"#276b66","Wildland Fire Use":"#b58a35","Unknown":"#77766f"}
@@ -42,7 +43,32 @@ def history_map(key):
         subset["name"]=subset["name"].fillna("Unnamed public record").map(lambda x:html.escape(str(x)))
         folium.GeoJson(subset.__geo_interface__,name=category,style_function=lambda feature,c=color:{"color":c,"fillColor":c,"fillOpacity":.28,"weight":.7},tooltip=folium.GeoJsonTooltip(fields=["name","year","type"],aliases=["Public event name","Ignition year","Recorded type"])).add_to(m)
     folium.Rectangle([[south,west],[north,east]],color="#253c3a",weight=2,fill=False,dash_array="6 4",tooltip="Regional context window; not a Tribal boundary").add_to(m)
-    m.fit_bounds([[south,west],[north,east]]);folium.LayerControl(collapsed=True).add_to(m)
+    m.fit_bounds([[south,west],[north,east]])
+    # Hidden Quarto tabs have no layout size. Fit once the iframe is visible;
+    # subsequent resizes retain the reader's chosen view.
+    resize = MacroElement()
+    resize._template = Template("""
+    {% macro script(this, kwargs) %}
+    (function () {
+        const map = {{ this._parent.get_name() }};
+        const bounds = {{ this.bounds | tojson }};
+        let fitted = false;
+        const observer = new ResizeObserver(function () {
+            const container = map.getContainer();
+            if (!container.clientWidth || !container.clientHeight) return;
+            map.invalidateSize({pan: false});
+            if (!fitted) {
+                map.fitBounds(bounds);
+                fitted = true;
+            }
+        });
+        observer.observe(map.getContainer());
+    })();
+    {% endmacro %}
+    """)
+    resize.bounds = [[south, west], [north, east]]
+    resize.add_to(m)
+    folium.LayerControl(collapsed=True).add_to(m)
     figure=folium.Figure(width="100%",height=440);m.add_to(figure)
     fig,ax=plt.subplots(figsize=(9,4.5));ax.set_facecolor("#faf8f2")
     for category,color in COLORS.items():

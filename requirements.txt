@@ -12,3 +12,4 @@ nbformat>=5.9
 nbclient>=0.9
 ipykernel>=6.26
 jupyterlab>=4.0
+nbconvert>=7.16

@@ -41,7 +41,8 @@ OCAP® is specifically a First Nations framework developed by the First Nations 
 
 The notebook checks a blank plan for missing decisions and checks whether a release record contains explicit approval. It does not certify consent or assign a readiness score to a Nation.
 
-[Open notebook 01](notebooks/01_questions_and_authority.ipynb){.download-link}
+[Read notebook 01](notebooks/01_questions_and_authority.html){.download-link}
+[Download notebook 01 (.ipynb)](notebooks/01_questions_and_authority.ipynb){.download-link download=""}
 
 ::: {.worksheet}
 **Discussion output:** one proposed question; a statement of benefit; the authorities who would need to shape the work; and a short list of unresolved decisions. Use public case materials for the classroom exercise. Do not ask students to disclose cultural knowledge or speak for a Nation.

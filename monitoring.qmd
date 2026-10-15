@@ -24,7 +24,8 @@ For the included paired workflow, each pair contains one treated unit and one di
 
 [Download the monitoring protocol](templates/monitoring-protocol.yml){.download-link}
 [Download the blank observation table](templates/monitoring-observations.csv){.download-link}
-[Open notebook 04](notebooks/04_monitoring_outcomes.ipynb){.download-link}
+[Read notebook 04](notebooks/04_monitoring_outcomes.html){.download-link}
+[Download notebook 04 (.ipynb)](notebooks/04_monitoring_outcomes.ipynb){.download-link download=""}
 
 ## What the code calculates
 

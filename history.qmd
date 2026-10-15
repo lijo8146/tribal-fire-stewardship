@@ -82,6 +82,7 @@ Source: public MTBS burned-area perimeters. Events are deduplicated by identifie
 - Separate accounts of observed fire growth, fire weather, fuel conditions and stewardship objectives.
 - Clear missing-data statements. Absence from a large-fire archive is not evidence that no burning occurred.
 
-[Open notebook 02](notebooks/02_fire_history_and_limits.ipynb){.download-link}
+[Read notebook 02](notebooks/02_fire_history_and_limits.html){.download-link}
+[Download notebook 02 (.ipynb)](notebooks/02_fire_history_and_limits.ipynb){.download-link download=""}
 
 **Exercise:** describe one pattern within a selected window, identify two explanations the archive cannot distinguish, and name the additional evidence needed before interpreting that pattern.
