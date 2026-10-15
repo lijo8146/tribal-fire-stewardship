@@ -4,7 +4,7 @@ subtitle: "Six distinct contexts for a shared research conversation"
 ---
 
 ::: {.lead}
-The public cases below separate documented work, proposed questions and knowledge that remains specific to its holders. They are preparation for a conversation, not a roster of confirmed participants.
+The public cases below separate documented work, proposed questions and knowledge that remains specific to its holders. 
 :::
 
 ## Read the cases separately
@@ -12,7 +12,7 @@ The public cases below separate documented work, proposed questions and knowledg
 ::: {.case-grid}
 [**Lakota and other Oceti Sakowin Nations** Begin with partner-selected Nations and existing educational relationships.](cases/oceti.qmd){.module-card}
 
-[**San Carlos Apache** Explore connections to existing student work on drought and air quality.](cases/san-carlos.qmd){.module-card}
+[**San Carlos Apache** Explore connections to existing student work on drought and air quality.](cases/san-carlos.qmd){.module-card} 
 
 [**Southern Ute** Consider how a synthesis could complement existing forestry and Brunot Area work.](cases/southern-ute.qmd){.module-card}
 
@@ -34,7 +34,7 @@ The public cases below separate documented work, proposed questions and knowledg
 | Teaching | What can be shared with students or other communities, by whom, and under what terms? |
 | Adaptation | Which lessons travel, which need substantial adaptation, and which remain place-specific? |
 
-Yurok and Karuk cases retain separate histories and authorities. Cultural burning is not defined here as a generic fuel treatment. Practitioners and their communities define its purposes, meanings and appropriate ways of describing it.
+Cultural burning is not defined here as a generic fuel treatment. Practitioners and their communities define its purposes, meanings and appropriate ways of describing it.
 
 ## An invitation-ready planning process
 
@@ -43,9 +43,7 @@ Yurok and Karuk cases retain separate histories and authorities. Cultural burnin
 3. Let hosts determine the format. A field visit or practitioner demonstration is included only if invited and appropriate.
 4. Produce an agreed learning record, including what should not be generalized or shared further.
 
-No travel dates, invitations or training events have been arranged. Event availability should be checked directly with hosts rather than assumed from past programs.
-
 [Download a draft exchange agenda](templates/exchange-agenda.md){.download-link}
 [Open notebook 03](notebooks/03_stewardship_and_exchange.ipynb){.download-link}
 
-**Exercise:** use two public cases to identify one shared enabling condition and one important difference. Record a source for each statement. Do not score or rank the communities.
+**Exercise:** use two public cases to identify one shared enabling condition and one important difference. Record a source for each statement. 

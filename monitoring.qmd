@@ -4,7 +4,7 @@ subtitle: "Design observations around an outcome partners choose"
 ---
 
 ::: {.lead}
-Monitoring becomes useful when the desired outcome, the observations and the decision are connected. This module supplies a protocol and working analysis code. No partner treatment observations have been supplied, so this prototype reports no treatment outcome estimates.
+Monitoring becomes useful when the desired outcome, the observations and the decision are connected. This module supplies a protocol and working analysis code. No partner treatment observations have been supplied.                                                       
 :::
 
 ## Start with an outcome
@@ -15,8 +15,6 @@ Monitoring becomes useful when the desired outcome, the observations and the dec
 | Community protection | Changes in fuels and a documented exposure question | The number of disasters “prevented” by one treatment |
 | Continuity of stewardship | Partner-defined records of work, access or training | Cultural continuity from acres burned |
 | Smoke or watershed concerns | Appropriately located observations with meteorological or hydrologic context | Causation from a regional satellite signal alone |
-
-These are prompts, not a prescribed set of indicators. Sensitive knowledge need not be turned into a dataset to have a place in the research.
 
 ## Specify the design before analysis
 

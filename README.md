@@ -42,13 +42,13 @@ python scripts/clear_notebook_outputs.py
 python scripts/check_public.py
 ~~~
 
-This preserves code and Markdown. For saved execution results, use the runner above; it writes to ignored work/executed_notebooks/. CI reports the notebook filename and rejects saved execution state rather than silently stripping it.
+This preserves code and Markdown. For saved execution results, use the runner above; it writes to ignored work/executed_notebooks/. CI reports the notebook filename and rejects saved execution state.
 
 Source notebooks have no saved outputs. The runner uses the current interpreter and leaves source notebooks untouched. Module 04 reports that no estimates are available until observations and a completed protocol are supplied locally. It never exports partner results to the public site.
 
 ## Data and reproducibility
 
-The included MTBS snapshot covers 1984–2024. Its original download date is unknown. The inspection date, source-component hashes, output hashes, incident types and regional counts are retained in `data/processed/history_manifest.json`. All regional event counts reconcile to the annual tables and display features. The original public snapshot was read from the user's sandbox without changing it; the new project has no runtime dependency on that folder.
+The included MTBS snapshot covers 1984-2024. Its original download date is unknown. The inspection date, source-component hashes, output hashes, incident types and regional counts are retained in `data/processed/history_manifest.json`. All regional event counts reconcile to the annual tables and display features.                                                                    
 
 To rebuild from an independently downloaded MTBS shapefile or GeoPackage:
 
@@ -57,11 +57,11 @@ python scripts/build_history.py --mtbs "C:\path\to\mtbs_perims_DD.shp"
 python scripts/check_public.py
 ```
 
-See the [MTBS download page](https://www.mtbs.gov/direct-download). The national archive can be large. Regional products, rather than the large raw archive, are bundled here. Region boxes in `project.yml` are descriptive contexts, not Tribal territory or treatment boundaries. Source thresholds and detection limits are explained on the history page.
+See the [MTBS download page](https://www.mtbs.gov/direct-download). The national archive can be large. Regional products, rather than the large raw archive, are bundled here. Region boxes in `project.yml` are descriptive contexts only, not Tribal territory or treatment boundaries. Source thresholds and detection limits are explained on the history page.
 
 ## Partner-directed work
 
-Copy blank worksheets from `templates/` into a partner-chosen private location. `data/private/`, raw data, executed notebooks and `.env` are ignored by Git. An ignore rule is not an access-control system: do not put restricted data in this repository without an agreed stewardship arrangement. CARE supports the conversation; the Nation's own protocols govern it. OCAP® is correctly attributed as a specifically First Nations framework.
+Copy blank worksheets from `templates/` into a partner-chosen private location. `data/private/`, raw data, executed notebooks and `.env` are ignored by Git. Do not put restricted data in this repository without an agreed stewardship arrangement. CARE supports the conversation; a Nation's own protocols govern it.                                         
 
 ## Validate and publish
 
@@ -72,7 +72,7 @@ python scripts/execute_notebooks.py
 quarto render
 ```
 
-The CI workflow runs those checks and builds the site. A separate Pages workflow is manual only; enable Settings → Pages → GitHub Actions before using it. No new GitHub repository or deployment has been created for this project. When a repository name is chosen, set `website.site-url` in `_quarto.yml` to its Pages URL.
+The CI workflow runs those checks and builds the site. A separate Pages workflow is manual only; enable Settings - Pages - GitHub Actions before using it. Set `website.site-url` in `_quarto.yml` to its Pages URL.
 
 ## Project layout
 

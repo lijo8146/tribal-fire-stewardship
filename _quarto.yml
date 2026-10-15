@@ -12,6 +12,7 @@ project:
     - python scripts/post_render.py
 website:
   title: "Tribal-led Fire Stewardship"
+  site-url: https://lijo8146.github.io/tribal-fire-stewardship/
   description: "A public-source synthesis and learning prototype for discussion with ESIIL and Tribal partners."
   page-navigation: true
   navbar:

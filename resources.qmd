@@ -7,10 +7,10 @@ subtitle: "Traceable public evidence and reusable research materials"
 
 Download a notebook into the project’s `notebooks/` directory, activate the supplied environment, and run it from the repository. The notebooks use the same helpers and public-data snapshot as the website. The downloadable sources contain no saved outputs.
 
-- [01 · Questions and authority](notebooks/01_questions_and_authority.ipynb)
-- [02 · Fire history and its limits](notebooks/02_fire_history_and_limits.ipynb)
-- [03 · Stewardship and exchange](notebooks/03_stewardship_and_exchange.ipynb)
-- [04 · Monitoring outcomes](notebooks/04_monitoring_outcomes.ipynb)
+- [01 Questions and authority](notebooks/01_questions_and_authority.ipynb)
+- [02 Fire history and its limits](notebooks/02_fire_history_and_limits.ipynb)
+- [03 Stewardship and exchange](notebooks/03_stewardship_and_exchange.ipynb)
+- [04 Monitoring outcomes](notebooks/04_monitoring_outcomes.ipynb)
 
 ## Blank worksheets
 
@@ -23,7 +23,7 @@ Download a notebook into the project’s `notebooks/` directory, activate the su
 
 ## Public source register
 
-The register distinguishes the claim supported by each source from the questions proposed in this prototype. Review dates indicate when the source was checked for this build; they are not evidence that a program, agreement or event remains unchanged indefinitely.
+The register lists each source cited in this prototype. Review dates indicate when the source was checked for this build.
 
 ```{python}
 #| output: asis

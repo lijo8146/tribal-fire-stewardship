@@ -8,7 +8,7 @@ Prepared by **Lilly Jones, PhD**, as a discussion prototype following interest i
 ## What is ready
 
 - Four executable research notebooks and a readable companion site.
-- Real MTBS context examples for four regional windows.
+- MTBS context examples for four regional windows.
 - Six distinct public-source case contexts, including separate Southern Ute and Ute Mountain Ute discussions and separate Yurok and Karuk cases.
 - Blank research, governance, exchange and monitoring materials.
 - Validated paired-analysis code that requires observations before estimating outcomes.
@@ -23,7 +23,7 @@ Prepared by **Lilly Jones, PhD**, as a discussion prototype following interest i
 | Pilot | Use one public-data teaching example and, if agreed, one partner-defined study | A useful learning output and documented feedback |
 | Review | Decide what to revise, share or discontinue | Partner-specific release decisions and an agreed next step |
 
-## What stays outside this first release
+## What is planned after this first release
 
 Active-fire prediction, burn prescriptions, automated “opportunity” or capacity rankings, cultural-site mapping and unvalidated fire-speed experiments. Weather, smoke, watershed and advanced modeling modules from the original sandbox can be considered after the core questions and relationships are clearer.
 
