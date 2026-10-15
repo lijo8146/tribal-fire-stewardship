@@ -1,6 +1,6 @@
 ---
-title: "Yurok / Cultural Fire Management Council"
-subtitle: "Public-source case context · Module 03"
+title: "Yurok/Cultural Fire Management Council"
+subtitle: "Public-source case context Module 03"
 ---
 
 ::: {.lead}

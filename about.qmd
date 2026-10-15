@@ -17,15 +17,15 @@ Prepared by **Lilly Jones, PhD**, as a discussion prototype following interest i
 
 | Step | Proposed work | What completion would look like |
 |---|---|---|
-| Frame | Discuss the four modules with Jennifer and relevant ESIIL colleagues | A narrower question, intended audience and suitable existing program connection |
-| Invite | Ask appropriate existing and prospective partners whether the work would be useful | Willing participation and clearly identified authorities; no inferred agreement |
-| Design | Agree on benefits, compensation, data handling and interpretation | A completed partner brief and monitoring protocol where wanted |
+| Frame | Discuss the four modules with ESIIL colleagues | A narrower question, intended audience and suitable existing program connection |
+| Invite | Ask appropriate existing and prospective partners whether the work would be useful | Willing participation and clearly identified authorities |
+| Design | Agree on data handling and interpretation | A completed partner brief and monitoring protocol where wanted |
 | Pilot | Use one public-data teaching example and, if agreed, one partner-defined study | A useful learning output and documented feedback |
 | Review | Decide what to revise, share or discontinue | Partner-specific release decisions and an agreed next step |
 
 ## What stays outside this first release
 
-Active-fire prediction, burn prescriptions, automated “opportunity” or capacity rankings, cultural-site mapping and unvalidated fire-speed experiments. Weather, smoke, watershed and advanced modeling modules can be considered after the core questions and relationships are clearer.
+Active-fire prediction, burn prescriptions, automated “opportunity” or capacity rankings, cultural-site mapping and unvalidated fire-speed experiments. Weather, smoke, watershed and advanced modeling modules from the original sandbox can be considered after the core questions and relationships are clearer.
 
 ## Lineage and licensing
 

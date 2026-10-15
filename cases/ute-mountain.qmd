@@ -1,6 +1,6 @@
 ---
 title: "Ute Mountain Ute Tribe"
-subtitle: "Public-source case context · Module 03"
+subtitle: "Public-source case context Module 03"
 ---
 
 ::: {.lead}

@@ -1,10 +1,10 @@
 ---
 title: "Karuk Tribe"
-subtitle: "Public-source case context · Module 03"
+subtitle: "Public-source case context Module 03"
 ---
 
 ::: {.lead}
-Separate from the Yurok case.
+Proposed partnership
 :::
 
 ## What is publicly documented
@@ -17,7 +17,7 @@ Sources: [Karuk Tribe: Eco-Culture Revitalization](https://www.karuk.us/departme
 
 ## Relationship status
 
-Potential learning relationship; no invitation or agreement is implied.
+Potential learning relationship.
 
 ## A proposed question to discuss
 

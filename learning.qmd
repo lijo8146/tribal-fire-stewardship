@@ -1,5 +1,5 @@
 ---
-title: "03 · Stewardship & exchange"
+title: "03 Stewardship & exchange"
 subtitle: "Six distinct contexts for a shared research conversation"
 ---
 
@@ -18,7 +18,7 @@ The public cases below separate documented work, proposed questions and knowledg
 
 [**Ute Mountain Ute** Establish the Tribe’s own questions, programs and preferred roles.](cases/ute-mountain.qmd){.module-card}
 
-[**Yurok / CFMC** Learn about community-defined purposes and the work of sustaining cultural fire.](cases/yurok.qmd){.module-card}
+[**Yurok/CFMC** Learn about community-defined purposes and the work of sustaining cultural fire.](cases/yurok.qmd){.module-card}
 
 [**Karuk** Examine practitioner support, enabling institutions and Tribal-authored policy analysis.](cases/karuk.qmd){.module-card}
 :::

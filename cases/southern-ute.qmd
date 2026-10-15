@@ -1,6 +1,6 @@
 ---
 title: "Southern Ute Indian Tribe"
-subtitle: "Public-source case context · Module 03"
+subtitle: "Public-source case context Module 03"
 ---
 
 ::: {.lead}

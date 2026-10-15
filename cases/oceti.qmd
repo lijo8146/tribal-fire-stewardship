@@ -1,6 +1,6 @@
 ---
 title: "Lakota and other Oceti Sakowin Nations"
-subtitle: "Public-source case context · Module 03"
+subtitle: "Public-source case context Module 03"
 ---
 
 ::: {.lead}

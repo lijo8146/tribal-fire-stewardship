@@ -5,11 +5,11 @@ toc: false
 ---
 
 ::: {.eyebrow}
-Public-source discussion prototype · Version 0.1
+Public-source discussion prototype Version 0.1
 :::
 
 ::: {.hero}
-What enables Tribal Nations to use fire for the outcomes they value—and how can environmental data science support that work?
+What enables Tribal Nations to use fire for the outcomes they value and how can environmental data science support that work?
 :::
 
 ::: {.lead}

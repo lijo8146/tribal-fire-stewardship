@@ -1,6 +1,7 @@
 # Tribal-led Fire Stewardship
 
-**An ESIIL synthesis and learning series is a public-source discussion prototype, v0.1.0.** Prepared by Lilly Jones, PhD. This is a standalone adaptation of the [Tribal Fire Science sandbox](https://github.com/daearconsulting/tribal_fire_science) from Daear Consulting, and is not yet approved by ESIIL.
+**An ESIIL synthesis and learning series is a public-source discussion prototype, v0.1.0.** Prepared by Lilly Jones, PhD.                           
+This is a standalone adaptation of the [Tribal Fire Science sandbox](https://github.com/daearconsulting/tribal_fire_science) from Daear Consulting, and is not yet approved by ESIIL.
 
 ## Start here
 
