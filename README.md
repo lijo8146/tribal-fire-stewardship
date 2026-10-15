@@ -35,6 +35,15 @@ Open a notebook in JupyterLab from this repository, or execute all four into ign
 python scripts/execute_notebooks.py
 ```
 
+Before committing notebooks edited in Jupyter, clear their saved outputs and counters:
+
+~~~powershell
+python scripts/clear_notebook_outputs.py
+python scripts/check_public.py
+~~~
+
+This preserves code and Markdown. For saved execution results, use the runner above; it writes to ignored work/executed_notebooks/. CI reports the notebook filename and rejects saved execution state rather than silently stripping it.
+
 Source notebooks have no saved outputs. The runner uses the current interpreter and leaves source notebooks untouched. Module 04 reports that no estimates are available until observations and a completed protocol are supplied locally. It never exports partner results to the public site.
 
 ## Data and reproducibility

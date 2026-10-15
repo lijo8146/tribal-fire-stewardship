@@ -52,6 +52,6 @@ def validate_public(root=ROOT):
     expected_notebooks={"01_questions_and_authority.ipynb","02_fire_history_and_limits.ipynb","03_stewardship_and_exchange.ipynb","04_monitoring_outcomes.ipynb"}
     if {p.name for p in (root/"notebooks").glob("*.ipynb")}!=expected_notebooks:raise ValueError("Expected four clean research notebooks")
     for notebook in (root/"notebooks").glob("*.ipynb"):
-        n=json.loads(notebook.read_text(encoding="utf-8"))
-        if any(c.get("outputs") for c in n["cells"] if c["cell_type"]=="code"):raise ValueError("Clear notebook outputs before sharing; private observations must stay local")
+        from .notebooks import check_clean_notebook
+        check_clean_notebook(notebook)
     return m
